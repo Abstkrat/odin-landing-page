@@ -6,7 +6,7 @@
 }
 
 .hero-container {
-  background-image: url("../images/purplebackground.jpg");
+  background-image: url("./images/purplebackground.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -177,7 +177,7 @@ div.signup-button-container p {
 }
 
 .footer {
-  background-image: url("../image/purplebackground.jpg");
+  background-image: url("./image/purplebackground.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
