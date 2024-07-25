@@ -105,3 +105,8 @@ div.image-grid-container img  {
 figure  {
   width: 21%;
 }
+
+.body-container-two {
+  background-color: #E59D0F;
+  padding-bottom: 75px;
+}
