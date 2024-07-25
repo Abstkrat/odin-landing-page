@@ -75,3 +75,8 @@ div.image-container img {
   height: 50%;
   width: 50%;
 }
+
+.body-container-one {
+  background-color: #000E31;
+  padding: 20px 0px 95px 0px;
+}
