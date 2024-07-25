@@ -18,3 +18,21 @@
   justify-content: space-between;
   margin: 0 170px 0 170px;
 }
+
+.header-logo  {
+  font-weight: 800;
+  font-size: 24px;
+}
+
+.header-list-items-container  {
+  display: flex;
+  justify-content: flex-end;
+  gap: 24px;
+  list-style-type: none;
+  align-items: center;
+}
+
+.subtext  {
+  color: #E4E4E4;
+  font-size: 18px;
+}
