@@ -132,3 +132,8 @@ div.body-container-two p  {
   font-size: 25px;
   align-self: flex-end;
 }
+
+.body-container-three {
+  padding: 10px 0;
+  background-color: #000E31;
+}
