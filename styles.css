@@ -70,3 +70,8 @@ h1  {
   flex-wrap: wrap;
   height: 236px;
 }
+
+div.image-container img {
+  height: 50%;
+  width: 50%;
+}
