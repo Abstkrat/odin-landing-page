@@ -147,3 +147,13 @@ div.body-container-two p  {
   justify-content: space-between;
   padding: 0 120px;
 }
+
+.call-to-action {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.call-to-action p {
+  font-size: 1.1rem;
+}
