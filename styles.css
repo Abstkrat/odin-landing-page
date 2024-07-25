@@ -94,3 +94,14 @@ h2  {
   text-align: center;
   margin: 0px 270px 0 270px;
 }
+
+div.image-grid-container img  {
+  width: 100%;
+  height: 65%;
+  border: 6px solid green;
+  border-radius: 25px;
+}
+
+figure  {
+  width: 21%;
+}
