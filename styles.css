@@ -80,3 +80,17 @@ div.image-container img {
   background-color: #000E31;
   padding: 20px 0px 95px 0px;
 }
+
+h2  {
+  width: 500PX;
+  margin: 30px auto 50px auto;
+  font-size: 35px;
+  text-align: center;
+}
+
+.image-grid-container {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin: 0px 270px 0 270px;
+}
