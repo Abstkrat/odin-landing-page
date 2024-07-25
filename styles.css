@@ -175,3 +175,12 @@ div.signup-button-container p {
   border-radius: 8px;
   padding: 3px 20px;
 }
+
+.footer {
+  background-image: url("../image/purplebackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
