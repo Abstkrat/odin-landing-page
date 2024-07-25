@@ -116,3 +116,19 @@ figure  {
   flex-direction: column;
   margin: 0px 305px;
 }
+
+blockquote  {
+  margin: 100px auto 0px;
+  font-size: 35px;
+  font-weight: 300;
+  font-style: italic;
+  color: black;
+  align-self: center;
+}
+
+div.body-container-two p  {
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+  align-self: flex-end;
+}
