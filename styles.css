@@ -137,3 +137,13 @@ div.body-container-two p  {
   padding: 10px 0;
   background-color: #000E31;
 }
+
+.large-signup-button  {
+  margin: 100px 170px;
+  background-color: green;
+  height: 148px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 120px;
+}
