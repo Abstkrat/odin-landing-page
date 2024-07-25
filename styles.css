@@ -110,3 +110,9 @@ figure  {
   background-color: #E59D0F;
   padding-bottom: 75px;
 }
+
+.quote-container  {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 305px;
+}
