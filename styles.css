@@ -43,3 +43,12 @@
   gap: 40px;
   margin: 122px 170px 0 170px;
 }
+
+.hero-text  {
+  max-width: 45%;
+}
+
+h1  {
+  font-size: 48px;
+  font-weight: 800;
+}
