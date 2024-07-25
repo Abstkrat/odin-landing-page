@@ -148,6 +148,11 @@ div.body-container-two p  {
   padding: 0 120px;
 }
 
+h3  {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
 .call-to-action {
   display: flex;
   flex-direction: column;
@@ -156,4 +161,17 @@ div.body-container-two p  {
 
 .call-to-action p {
   font-size: 1.1rem;
+}
+
+.signup-button-container  {
+  display: flex;
+  align-items: center;
+}
+
+div.signup-button-container p {
+  font-weight: 700;
+  font-size: 1.1rem;
+  border: 2px solid white;
+  border-radius: 8px;
+  padding: 3px 20px;
 }
