@@ -5,10 +5,16 @@
 }
 
 .hero-container {
-  background-image: url(".purplebackground.jpg");
+  background-image: url("../images/purplebackground.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   padding-top: 20px;
   padding-bottom: 120px;
+}
+
+.menu-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 170px 0 170px;
 }
